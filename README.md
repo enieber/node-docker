@@ -9,6 +9,6 @@
   
 ## How to use
 
-``docker build -t <name>``
+``docker build -t <name> .``
 
 ``docker run -p 3000:3000 -d <name>``
